@@ -26,3 +26,5 @@ info: serving app on http://127.0.0.1:3333
  ----------------------
  
 Como subir para HEROKU:
+
+testando git reset mixed
