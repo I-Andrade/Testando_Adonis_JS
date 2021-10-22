@@ -21,3 +21,6 @@ Dentro da pasta do projeto clonado usar o comando no cmd: adonis serve --dev
 
 Abrir no navegador o endereço que aparecer, por exemplo:
 info: serving app on http://127.0.0.1:3333
+
+
+novo teste
